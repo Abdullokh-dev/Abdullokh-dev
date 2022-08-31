@@ -33,7 +33,7 @@ You can learn more about me by looking my profile.
     <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
 </div>
 
-To view my Portfolio: **[click here](https://github.com/Abdullokh-dev)**
+To view my Portfolio: **[click here](https://abdullokh-dev.vercel.app/)**
 
 ### Social Media
 <ul>
