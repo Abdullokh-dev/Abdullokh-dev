@@ -37,7 +37,7 @@ To view my Portfolio: **[click here](https://abdullokh-dev.vercel.app/)**
 
 ### Projects
 <ul>
-    <li><a href="https://vercel.com/abdullokh-dev/abdullokh-dev">About me</a></li>
+    <li><a href="https://abdullokh-dev.vercel.app/">About me</a></li>
     <li><a href="https://book-app-green.vercel.app/">BookApp</a></li>
     <li><a href="https://cottage-app-ashy.vercel.app/">Reserve Cottage</a></li>
     <li><a href="https://music-player-indol-beta.vercel.app/">Music Player</a></li>
