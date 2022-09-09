@@ -35,6 +35,13 @@ You can learn more about me by looking my profile.
 
 To view my Portfolio: **[click here](https://abdullokh-dev.vercel.app/)**
 
+### Projects
+<ul>
+    <li><a href="https://vercel.com/abdullokh-dev/abdullokh-dev">About me</a></li>
+    <li><a href="https://book-app-green.vercel.app/">BookApp-dev</a></li>
+    <li><a href="https://cottage-app-ashy.vercel.app/">Reserve Cottage</a></li>
+</ul>
+
 ### Social Media
 <ul>
     <li> Telegram <a href="https://t.me/Abdullokh_dev">@Abdullokh-dev</a></li>
