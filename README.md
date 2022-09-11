@@ -2,7 +2,7 @@
 
 <hr />
 
-Hi! my name is Abdullokh and web developer with an experience on what your want. For
+Hi! my name is Abdullokh and Front-end developer with an experience on what your want. For
 me, programming is a joy, part of my life.  
 
 I carefully follow the latest trends and innovations in the field of information 
