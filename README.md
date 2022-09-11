@@ -36,7 +36,7 @@ You can learn more about me by looking my profile.
 To view my Portfolio: **[click here](https://abdullokh-dev.vercel.app/)**
 
 ### Projects
-<div style="display flex">
+<div style="display flex; justify-content: space-between;">
     <ul>
     <li><a href="https://abdullokh-dev.vercel.app/">About me</a></li>
     <li><a href="https://book-app-green.vercel.app/">BookApp</a></li>
