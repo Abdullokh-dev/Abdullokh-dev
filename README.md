@@ -37,22 +37,20 @@ To view my Portfolio: **[click here](https://abdullokh-dev.vercel.app/)**
 
 ### Projects
 <div style="display flex; justify-content: space-between;">
+    <ul style="display flex; justify-content: space-between;">
+        <li><a href="https://abdullokh-dev.vercel.app/">About me</a></li>
+        <li><a href="https://book-app-green.vercel.app/">BookApp</a></li>
+        <li><a href="https://cottage-app-ashy.vercel.app/">Reserve Cottage</a></li>
+        <li><a href="https://music-player-indol-beta.vercel.app/">Music Player</a></li>
+        <li><a href="https://animated-template-ten.vercel.app/">Animated Template</a></li>
+    </ul>
     <ul>
-    <li><a href="https://abdullokh-dev.vercel.app/">About me</a></li>
-    <li><a href="https://book-app-green.vercel.app/">BookApp</a></li>
-    <li><a href="https://cottage-app-ashy.vercel.app/">Reserve Cottage</a></li>
-    <li><a href="https://music-player-indol-beta.vercel.app/">Music Player</a></li>
-    <li><a href="https://animated-template-ten.vercel.app/">Animated Template</a></li>
-</ul>
-
-<ul>
-    <li><a href="https://quote-generator-six-pi.vercel.app/">Quote Generator</a></li>
-    <li><a href="https://infinite-scroll-liard-seven.vercel.app/">Infinite Scroll</a></li>
-    <li><a href="https://buy-house-app.vercel.app/">Buy/Sell House</a></li>
-    <li><a href="https://form-validate-eight.vercel.app/">Form Validate</a></li>
-    <li><a href="https://watch-shop-steel.vercel.app/">Watch Shop</a></li>
-</ul>
-
+        <li><a href="https://quote-generator-six-pi.vercel.app/">Quote Generator</a></li>
+        <li><a href="https://infinite-scroll-liard-seven.vercel.app/">Infinite Scroll</a></li>
+        <li><a href="https://buy-house-app.vercel.app/">Buy/Sell House</a></li>
+        <li><a href="https://form-validate-eight.vercel.app/">Form Validate</a></li>
+        <li><a href="https://watch-shop-steel.vercel.app/">Watch Shop</a></li>
+    </ul>
 </div>
 
 ### Social Media
