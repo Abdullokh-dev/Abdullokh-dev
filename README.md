@@ -36,14 +36,14 @@ To view my Portfolio: **[click here](https://abdullokh-dev.vercel.app/)**
     <li><a href="https://abdullokh-dev.vercel.app/">About me</a></li>
     <li><a href="https://book-app-green.vercel.app/">BookApp</a></li>
     <li><a href="https://cottage-app-ashy.vercel.app/">Reserve Cottage</a></li>
-    <li><a href="https://music-player-indol-beta.vercel.app/">Music Player</a></li>
-    <li><a href="https://animated-template-ten.vercel.app/">Animated Template</a></li>
+    <li><a href="https://music-player-indol-beta.vercel.app/">MP3 Player</a></li>
+    <li><a href="https://animated-template-ten.vercel.app/">Template with Animation</a></li>
     <li><a href="https://buy-house-app.vercel.app/">Buy/Sell House</a></li>
     <li><a href="https://quote-generator-six-pi.vercel.app/">Quote Generator</a></li>
-    <li><a href="https://form-validate-eight.vercel.app/">Form Validate</a></li>
-    <li><a href="https://quiz-app-lac-rho.vercel.app/">Quiz App</a></li>
-    <li><a href="https://perspective-playground-theta.vercel.app/">Perspective Playground</a></li>
-    <li><a href="https://infinite-scroll-liard-seven.vercel.app/">Infinite Scroll</a></li>
+    <li><a href="https://form-validate-eight.vercel.app/">Validating Form</a></li>
+    <li><a href="https://quiz-app-lac-rho.vercel.app/">Quiz Test App</a></li>
+    <li><a href="https://perspective-playground-theta.vercel.app/">Sensitive Style</a></li>
+    <li><a href="https://infinite-scroll-liard-seven.vercel.app/">Upload img Scroll</a></li>
     <li><a href="https://watch-shop-steel.vercel.app/">Watch Shop</a></li>
 </ul>
 
