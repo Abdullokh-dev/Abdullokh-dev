@@ -22,11 +22,6 @@
 Hi, I'm **Abdullokh** 👋 <br/>
 A [Teacher](https://kadirov.dev/) and Web Developer at The Kadirov Group, I teach students from Junior Full Stack web developer and work with 20 developers with carefully follow the latest trends and innovations in the field of information technology.
 
-Have an interest? I'm always open to new projects and experiences, so let's connect:
-- [Telegram](https://t.me/Abdullokh_dev)
-- [Whatsapp](https://wa.me/+998970003525)
-- [Linkedin](https://www.linkedin.com/in/abdullokh-khamzaev-79660b252/)
-
 <div style="display: flex; align: center">
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
     <img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white">
@@ -42,3 +37,8 @@ Have an interest? I'm always open to new projects and experiences, so let's conn
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
+
+Have an interest? I'm always open to new projects and experiences, so let's connect:
+- [Telegram](https://t.me/Abdullokh_dev)
+- [Whatsapp](https://wa.me/+998970003525)
+- [Linkedin](https://www.linkedin.com/in/abdullokh-khamzaev-79660b252/)
