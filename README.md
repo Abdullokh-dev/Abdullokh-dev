@@ -2,7 +2,7 @@
     <div>
         <img src="https://github.com/Abdullokh-dev/Abdullokh-dev/blob/main/assets/githubImage.png" alt="Profile header" width="100%" />
         <div>
-            <a href="https://www.linkedin.com/in/matt-c-smith/">
+            <a href="https://www.linkedin.com/in/abdullokh-khamzaev">
                 <img src="https://img.shields.io/badge/linkedin-connect-%230077B5.svg?&style=for-the-badge&logo=linkedin" />
             </a>&nbsp;&nbsp;
             <a href="https://t.me/Abdullokh_dev">
@@ -41,4 +41,4 @@ A [Teacher](https://kadirov.dev/) and Web Developer at The Kadirov Group, I teac
 Have an interest? I'm always open to new projects and experiences, so let's connect:
 - [Telegram](https://t.me/Abdullokh_dev)
 - [Whatsapp](https://wa.me/+998970003525)
-- [Linkedin](https://www.linkedin.com/in/abdullokh-khamzaev-79660b252/)
+- [Linkedin](https://www.linkedin.com/in/abdullokh-khamzaev)
