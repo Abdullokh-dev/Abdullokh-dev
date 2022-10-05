@@ -8,7 +8,7 @@
             <a href="https://t.me/Abdullokh_dev">
                 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=" />
             </a>&nbsp;&nbsp;
-            <a href="https://api.whatsapp.com/send/?phone=%2B998970003525&text&type=phone_number&app_absent=0">
+            <a href="https://wa.me/+998970003525">
                 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=WhatsApp&color=222222&logo=WhatsApp&logoColor=25D366&label=" />
             </a>&nbsp;&nbsp;
             <a href="https://www.instagram.com/1___abdulloh___1/">
@@ -17,17 +17,15 @@
         </div>
     </div>
 </div>
+<br /><br />
 
+Hi, I'm **Abdullokh** 👋 <br/>
+A [Teacher](https://kadirov.dev/) and Web Developer at The Kadirov Group, I teach students from Junior Full Stack web developer and working with 20 developers
 
-Hi! my name is Abdullokh and Front-end developer with an experience on what you want. For
-me, programming is a joy, part of my life.  
-
-I carefully follow the latest trends and innovations in the field of information 
-technology. I quickly learn new things and use the most effective methods for solving problems.
-
-You can learn more about me by looking my profile.
-
-<h3> ⚡️ Tech Stack </h3>
+Have an interest? I'm always open to new projects and experiences, so let's connect:
+- [Telegram](https://t.me/Abdullokh_dev)
+- [Whatsapp](https://wa.me/+998970003525)
+- [Linkedin](https://www.linkedin.com/in/abdullokh-khamzaev-79660b252/)
 
 <div style="display: flex; align: center">
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
@@ -44,29 +42,3 @@ You can learn more about me by looking my profile.
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
-
-To view my Portfolio: **[click here](https://abdullokh-dev.vercel.app/)**
-
-### Projects
-
-<ul style="display flex; justify-content: space-between;">
-    <li><a href="https://abdullokh-dev.vercel.app/">About me</a></li>
-    <li><a href="https://book-app-green.vercel.app/">BookApp</a></li>
-    <li><a href="https://cottage-app-ashy.vercel.app/">Reserve Cottage</a></li>
-    <li><a href="https://music-player-indol-beta.vercel.app/">MP3 Player</a></li>
-    <li><a href="https://animated-template-ten.vercel.app/">Template with Animation</a></li>
-    <li><a href="https://buy-house-app.vercel.app/">Buy/Sell House</a></li>
-    <li><a href="https://quote-generator-six-pi.vercel.app/">Quote Generator</a></li>
-    <li><a href="https://form-validate-eight.vercel.app/">Validating Form</a></li>
-    <li><a href="https://quiz-app-lac-rho.vercel.app/">Quiz Test App</a></li>
-    <li><a href="https://perspective-playground-theta.vercel.app/">Sensitive Style</a></li>
-    <li><a href="https://infinite-scroll-liard-seven.vercel.app/">Upload img Scroll</a></li>
-    <li><a href="https://watch-shop-steel.vercel.app/">Watch Shop</a></li>
-</ul>
-
-### Social Media
-<ul>
-    <li> Telegram <a href="https://t.me/Abdullokh_dev">@Abdullokh-dev</a></li>
-    <li> Instagram<a href="https://www.instagram.com/1___abdulloh___1/">@Abdullokh-dev</a></li>
-    <li> Whatsapp <a href="https://wa.me/+998970003525">@Abdullokh-dev</a></li>
-</ul>
