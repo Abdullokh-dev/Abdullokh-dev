@@ -22,7 +22,7 @@
 Hi, I'm **Abdullokh** 👋 <br/>
 A [Teacher](https://kadirov.dev/) and Web Developer at The Kadirov Group, I teach students from Junior Full Stack web developer and work with 20 developers with carefully follow the latest trends and innovations in the field of information technology.
 
-<div style="display: flex; align: center">
+<div align="center">
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
     <img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
