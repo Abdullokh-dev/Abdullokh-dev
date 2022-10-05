@@ -16,12 +16,8 @@
             </a>
         </div>
     </div>
-    </div>
 </div>
 
-## Hi, I'm Abdullokh 👋
-
-<hr />
 
 Hi! my name is Abdullokh and Front-end developer with an experience on what you want. For
 me, programming is a joy, part of my life.  
