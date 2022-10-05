@@ -1,6 +1,20 @@
 <div align="center">
     <div>
         <img src="https://github.com/Abdullokh-dev/Abdullokh-dev/blob/main/assets/githubImage.png" alt="Profile header" width="100%" />
+        <div>
+            <a href="https://www.linkedin.com/in/matt-c-smith/">
+                <img src="https://img.shields.io/badge/linkedin-connect-%230077B5.svg?&style=for-the-badge&logo=linkedin" />
+            </a>&nbsp;&nbsp;
+            <a href="https://t.me/Abdullokh_dev">
+                <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=" />
+            </a>&nbsp;&nbsp;
+            <a href="https://twitter/MattCSmith_">
+                <img src="https://img.shields.io/badge/twitter-follow-%231DA1F2.svg?&style=for-the-badge&logo=twitter" />
+            </a>&nbsp;&nbsp;
+            <a href="https://www.youtube.com/channel/UC_WTeHQ0Gp62tSVPaeCff-w">
+                <img src="https://img.shields.io/badge/youtube-subscribe-%23FF0000.svg?&style=for-the-badge&logo=youtube" />
+            </a>
+        </div>
     </div>
     </div>
 </div>
