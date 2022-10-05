@@ -1,3 +1,23 @@
+<div align="center">
+    <div>
+        <img src="https://github.com/Abdullokh-dev/Abdullokh-dev/raw/master/assets/githubImage.png" alt="Profile header" width="100%" />
+        <div>
+        <a href="https://www.linkedin.com/in/matt-c-smith/">
+            <img src="https://img.shields.io/badge/linkedin-connect-%230077B5.svg?&style=for-the-badge&logo=linkedin" />
+        </a>&nbsp;&nbsp;
+        <a href="https://matt-smith.dev">
+            <img src="https://img.shields.io/badge/blog-visit-%23F18D2F.svg?&style=for-the-badge&logo=hashnode" />
+        </a>&nbsp;&nbsp;
+        <a href="https://twitter/MattCSmith_">
+            <img src="https://img.shields.io/badge/twitter-follow-%231DA1F2.svg?&style=for-the-badge&logo=twitter" />
+        </a>&nbsp;&nbsp;
+        <a href="https://www.youtube.com/channel/UC_WTeHQ0Gp62tSVPaeCff-w">
+            <img src="https://img.shields.io/badge/youtube-subscribe-%23FF0000.svg?&style=for-the-badge&logo=youtube" />
+        </a>
+    </div>
+    </div>
+</div>
+
 ## Hi, I'm Abdullokh 👋
 
 <hr />
