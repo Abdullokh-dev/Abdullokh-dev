@@ -1,4 +1,4 @@
-## Finally you found me  😁🤝
+## Hi, I'm Abdullokh 👋
 
 <hr />
 
