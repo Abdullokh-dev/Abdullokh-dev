@@ -8,11 +8,11 @@
             <a href="https://t.me/Abdullokh_dev">
                 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=" />
             </a>&nbsp;&nbsp;
-            <a href="https://twitter/MattCSmith_">
-                <img src="https://img.shields.io/badge/twitter-follow-%231DA1F2.svg?&style=for-the-badge&logo=twitter" />
+            <a href="https://api.whatsapp.com/send/?phone=%2B998970003525&text&type=phone_number&app_absent=0">
+                <img src="https://img.shields.io/static/v1?style=for-the-badge&message=WhatsApp&color=222222&logo=WhatsApp&logoColor=25D366&label=" />
             </a>&nbsp;&nbsp;
-            <a href="https://www.youtube.com/channel/UC_WTeHQ0Gp62tSVPaeCff-w">
-                <img src="https://img.shields.io/badge/youtube-subscribe-%23FF0000.svg?&style=for-the-badge&logo=youtube" />
+            <a href="https://www.instagram.com/1___abdulloh___1/">
+                <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" />
             </a>
         </div>
     </div>
