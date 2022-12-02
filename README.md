@@ -38,6 +38,7 @@ A Web Developer and [Teacher](https://kadirov.dev/) at The Kadirov Group. I teac
 </div>
 
 Have an interest? I'm always open to new projects and experiences, so let's connect:
+Or call me! +79610251525
 - [Telegram](https://t.me/Abdullokh_dev)
 - [Whatsapp](https://wa.me/+998970003525)
 - [Linkedin](https://www.linkedin.com/in/abdullokh-khamzaev)
