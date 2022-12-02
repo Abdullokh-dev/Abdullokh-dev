@@ -37,7 +37,7 @@ A Web Developer and [Teacher](https://kadirov.dev/) at The Kadirov Group. I teac
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-Have an interest? I'm always open to new projects and experiences, so let's connect:
+Have an interest? I'm always open to new projects and experiences, so let's connect: <br />
 Or call me! +79610251525
 - [Telegram](https://t.me/Abdullokh_dev)
 - [Whatsapp](https://wa.me/+998970003525)
