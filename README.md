@@ -1,6 +1,6 @@
 <div align="center">
     <div>
-        <img src="https://github.com/Abdullokh-dev/Abdullokh-dev/blob/main/assets/githubImage.png" alt="Profile header" width="100%" />
+        <img src="https://github.com/Abdullokh-dev/Abdullokh-dev/blob/main/assets/githubImage.png" alt="Abdulloh Abdullokh Khamzaev Hamzayev" width="100%" />
         <div>
             <a href="https://www.linkedin.com/in/abdullokh-khamzaev">
                 <img src="https://img.shields.io/badge/linkedin-connect-%230077B5.svg?&style=for-the-badge&logo=linkedin" />
