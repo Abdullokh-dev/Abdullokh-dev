@@ -11,7 +11,7 @@
             <a href="https://wa.me/+998970003525">
                 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=WhatsApp&color=222222&logo=WhatsApp&logoColor=25D366&label=" />
             </a>&nbsp;&nbsp;
-            <a href="https://www.instagram.com/1___abdulloh___1/">
+            <a href="https://www.instagram.com/Abdullokh_dev/">
                 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" />
             </a>
         </div>
