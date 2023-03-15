@@ -20,7 +20,13 @@
 <br /><br />
 
 Hi, I'm **Abdullokh** 👋 <br/>
-A Web Developer with carefully following the latest trends and innovations in the field of information technology. 
+Frontend Developer, with extensive knowledge and years of experience, working in web technologies with these my 3 mottos:
+
+Never stop learning and don't be shy about asking questions, just like you started it the first time! When you have more experience than everyone around you, Don't say "I know everything and Can create everything". Because It will stop you growing!
+
+In the world of programming, you can't learn everything, and there's always someone stronger than you!
+
+The biggest mistake is "not making mistakes", because 80% of the programming process is dealing with mistakes
 
 <div align="center">
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
