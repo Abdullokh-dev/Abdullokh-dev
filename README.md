@@ -19,14 +19,14 @@
 </div>
 <br /><br />
 
-Hi, I'm **Abdullokh** 👋 <br/>
-Frontend Developer, with extensive knowledge and years of experience, working in web technologies with these my 3 mottos:
+Привет, я Абдуллох 👋
+Фронтенд-разработчик, обладающий обширными знаниями и многолетним опытом работы в области веб-технологий с этими тремя моими девизами:
 
-Never stop learning and don't be shy about asking questions, just like you started it the first time! When you have more experience than everyone around you, Don't say "I know everything and Can create everything". Because It will stop you growing!
+Никогда не прекращайте учиться и не стесняйтесь задавать вопросы, как будто вы начали это делать в первый раз! Когда у тебя больше опыта, чем у всех вокруг, Не говори: «Я все знаю и все могу создать». Потому что это остановит ваш рост!
 
-In the world of programming, you can't learn everything, and there's always someone stronger than you!
+В мире программирования всему не научишься, и всегда найдется кто-то сильнее тебя!
 
-The biggest mistake is "not making mistakes", because 80% of the programming process is dealing with mistakes
+Самая большая ошибка — «не делать ошибок», потому что 80% процесса программирования приходится на ошибки.
 
 <div align="center">
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
