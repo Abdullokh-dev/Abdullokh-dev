@@ -43,8 +43,7 @@
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-Have an interest? I'm always open to new projects and experiences, so let's connect: <br />
-Or <b> call me! +79610251525 </b>
+Есть интерес? Я всегда открыт для новых проектов и опыта, так что давайте подключаться:
 - [Telegram](https://t.me/Abdullokh_dev)
 - [Whatsapp](https://wa.me/+998970003525)
 - [Linkedin](https://www.linkedin.com/in/abdullokh-khamzaev)
