@@ -43,5 +43,5 @@ The biggest mistake is "not making mistakes", because 80% of the programming pro
 
 Any interest? I'm always open to new projects and experiences, so let's connect::
 - [Telegram](https://t.me/Abdullokh_dev)
-- [Whatsapp](https://wa.me/+998970003525)
+- [Whatsapp](https://wa.me/+79010493210)
 - [Linkedin](https://www.linkedin.com/in/abdullokh-khamzaev)
