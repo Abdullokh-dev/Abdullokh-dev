@@ -8,7 +8,7 @@
             <a href="https://t.me/Abdullokh_dev">
                 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=" />
             </a>&nbsp;&nbsp;
-            <a href="https://wa.me/+998970003525">
+            <a href="https://wa.me/+79010493210">
                 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=WhatsApp&color=222222&logo=WhatsApp&logoColor=25D366&label=" />
             </a>&nbsp;&nbsp;
             <a href="https://www.instagram.com/Abdullokh_dev/">
