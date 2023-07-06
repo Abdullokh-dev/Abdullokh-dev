@@ -2,7 +2,7 @@
     <div>
         <img src="https://github.com/Abdullokh-dev/Abdullokh-dev/blob/main/assets/githubImage.png" alt="Abdulloh Abdullokh Khamzaev Hamzayev" width="100%" />
         <div>
-            <a href="www.linkedin.com/in/abdullokh-khamzaev">
+            <a href="https://linkedin.com/in/abdullokh-khamzaev">
                 <img src="https://img.shields.io/badge/linkedin-connect-%230077B5.svg?&style=for-the-badge&logo=linkedin" />
             </a>&nbsp;&nbsp;
             <a href="https://t.me/Abdullokh_dev">
