@@ -1,11 +1,8 @@
-Hello, I am Abdullokh 👋
-Frontend Developer, with extensive knowledge and years of experience, working in web technologies with these my 3 mottos:
+# 👨‍💻 Abdullokh Khamzaev
 
-Never stop learning and don't be shy about asking questions, just like you started it the first time! When you have more experience than everyone around you, Don't say "I know everything and Can create everything". Because It will stop you growing!
+Heey 👋, I am Frontend Developer and experienced with a strong background in web technologies. Worked both remotely and on-site with friendly colleagues. Looking for a new career opportunity and would appreciate your contact and offer.
+My [Portfolio](https://abdullokh.site).
 
-In the world of programming, you can't learn everything, and there's always someone stronger than you!
-
-The biggest mistake is "not making mistakes", because 80% of the programming process is dealing with mistakes
 
 <div align="center">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
