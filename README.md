@@ -1,6 +1,7 @@
 # 👨‍💻 Abdullokh Khamzaev
 
 Heey 👋, I am [Frontend Developer](https://abdullokh.site) and [experienced](https://abdullokh.site/#experience) with a strong background in web technologies. Worked both remotely and on-site with friendly colleagues. Looking for a new career opportunity and would appreciate your contact and offer.
+
 ##
 
 <div align="center">
