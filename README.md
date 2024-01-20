@@ -17,7 +17,7 @@ Heey 👋, I am [Frontend Developer](https://abdullokh.site) and [experienced](h
 
 <hr />
 
-## Projects
+## Contacts
 
-- [Telegram](https://t.me/Abdullokh_dev)
-- [Linkedin](https://www.linkedin.com/in/abdullokh-khamzaev)
+* [Telegram](https://t.me/Abdullokh_dev)
+* [LinkedIn](https://www.linkedin.com/in/abdullokh-khamzaev)
