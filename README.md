@@ -2,7 +2,6 @@
 
 Heey 👋, I am [Frontend Developer](https://abdullokh.site) and [experienced](https://abdullokh.site/#experience) with a strong background in web technologies. Worked both remotely and on-site with friendly colleagues. Looking for a new career opportunity and would appreciate your contact and offer.
 
-
 <div align="center">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
@@ -14,7 +13,7 @@ Heey 👋, I am [Frontend Developer](https://abdullokh.site) and [experienced](h
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
-Any interest? I'm always open to new projects and experiences, so let's connect::
+## Projects
+
 - [Telegram](https://t.me/Abdullokh_dev)
-- [Whatsapp](https://wa.me/+79010493210)
 - [Linkedin](https://www.linkedin.com/in/abdullokh-khamzaev)
