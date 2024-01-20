@@ -15,6 +15,8 @@ Heey 👋, I am [Frontend Developer](https://abdullokh.site) and [experienced](h
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
+<hr />
+
 ## Projects
 
 - [Telegram](https://t.me/Abdullokh_dev)
