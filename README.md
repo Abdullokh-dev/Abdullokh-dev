@@ -1,24 +1,3 @@
-<div align="center">
-    <div>
-        <img src="https://github.com/Abdullokh-dev/Abdullokh-dev/blob/main/assets/githubImage.png" alt="Abdulloh Abdullokh Khamzaev Hamzayev" width="100%" />
-        <div>
-            <a href="https://linkedin.com/in/abdullokh-khamzaev">
-                <img src="https://img.shields.io/badge/linkedin-connect-%230077B5.svg?&style=for-the-badge&logo=linkedin" />
-            </a>&nbsp;&nbsp;
-            <a href="https://t.me/Abdullokh_dev">
-                <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=" />
-            </a>&nbsp;&nbsp;
-            <a href="https://wa.me/+79010493210">
-                <img src="https://img.shields.io/static/v1?style=for-the-badge&message=WhatsApp&color=222222&logo=WhatsApp&logoColor=25D366&label=" />
-            </a>&nbsp;&nbsp;
-            <a href="https://www.instagram.com/Abdullokh_dev/">
-                <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" />
-            </a>
-        </div>
-    </div>
-</div>
-<br /><br />
-
 Hello, I am Abdullokh 👋
 Frontend Developer, with extensive knowledge and years of experience, working in web technologies with these my 3 mottos:
 
